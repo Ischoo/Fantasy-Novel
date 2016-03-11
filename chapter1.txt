@@ -2,7 +2,11 @@ Chapter 1
 
 The beginning of a fascinating story. Something about dragons and wizards. Etc.
 
+<<<<<<< HEAD
 The anti-hero is a scurrilous swine!
+=======
+
+>>>>>>> origin/master
 
 The princess is a loser!
 
